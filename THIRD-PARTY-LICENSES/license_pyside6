@@ -1,0 +1,33 @@
+PySide6 / Qt for Python
+=======================
+
+GeoPyCAD uses PySide6 (Qt for Python) for its graphical
+user interface and related Qt functionality.
+
+PySide6 is developed and maintained by The Qt Company Ltd.
+and contributors.
+
+PySide6 is available under the following licensing options:
+
+- GNU Lesser General Public License v3 (LGPLv3)
+- GNU General Public License v3 (GPLv3)
+- Commercial Qt license
+
+GeoPyCAD uses PySide6 under the applicable open-source license.
+
+The PySide6/Qt components remain subject to their respective
+licenses and are not covered by the proprietary GeoPyCAD license.
+
+Official Qt for Python documentation:
+https://doc.qt.io/qtforpython-6/
+
+Official PySide6 source repository:
+https://code.qt.io/cgit/pyside/pyside-setup.git
+
+For the complete license terms, see LICENSE-LGPLv3.txt.
+
+Copyright © The Qt Company Ltd. and contributors.
+
+
+==============================================================
+https://doc.qt.io/qtforpython-6/licenses.html

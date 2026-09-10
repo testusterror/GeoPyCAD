@@ -1,0 +1,128 @@
+# GeoPyCAD
+
+**GeoPyCAD** is a professional CAD and geospatial software
+application developed in Python.
+
+It combines geospatial functionality, CAD functionality and
+technical drawing capabilities in a standalone desktop
+application.
+
+---
+
+## Features
+
+- CAD drawing and editing
+- Geospatial / surveying functionality
+- DXF import and processing
+- PKT (Point/Punkt) import and processing
+- OpenGL-based rendering  (2D/3D)
+- Technical drawings
+- Line type and object handling
+- calculations that take refraction and scale into account
+- more can be viewed in the "Benutzerhandbuch.html" that is provided
+  
+---
+
+## Download
+
+The latest official version of GeoPyCAD can be downloaded
+from the Releases section of this repository.
+
+Only official releases published by the copyright holder
+should be considered official versions of GeoPyCAD.
+
+---
+
+## Installation
+
+Download the latest release 
+safe it in a file you find fitting best.
+No further installation is needed to start the GeoPyCAD executable.
+Save the program in a suitable folder of your choice. 
+Optionally, you can create a shortcut to this executable.
+No Python installation is required for the distributed
+standalone version.
+
+---
+
+## License
+
+GeoPyCAD is **proprietary software**.
+
+The source code is not publicly available.
+
+You may download and use the official, unmodified version of
+GeoPyCAD according to the terms of the
+[GeoPyCAD Proprietary Software License](LICENSE).
+
+In particular, redistribution, resale, modification and
+publication of GeoPyCAD itself are not permitted without prior
+written permission from the copyright holder.
+
+**Copyright © 2026 Marc Buechau. All rights reserved.**
+
+---
+
+## Third-Party Software
+
+GeoPyCAD uses software and libraries developed by third
+parties.
+
+These components are distributed and/or used under their
+respective licenses.
+
+The following components are used by GeoPyCAD:
+
+| Component | Purpose |
+|-----------|---------|
+| Python Standard Library | Core Python functionality |
+| PySide6 | User interface and OpenGL widget |
+| PyOpenGL | OpenGL rendering |
+| NumPy | Numerical and vertex data processing |
+| ezdxf | DXF processing |
+
+The applicable copyright notices and license texts can be
+found in:
+
+`THIRD-PARTY-LICENSES/`
+
+These third-party licenses remain unaffected by the GeoPyCAD
+Proprietary Software License.
+
+---
+
+## Copyright
+
+Copyright © 2026 Marc Buechau
+
+All rights reserved.
+
+GeoPyCAD and its original components are the intellectual
+property of the copyright holder.
+
+---
+
+## Trademark
+
+"GeoPyCAD" is the product name of this software.
+
+Trademark rights, if applicable, are separate from the
+software copyright.
+
+---
+
+## Disclaimer
+
+GeoPyCAD is provided "as is".
+
+The software is intended as a technical tool and should be
+used with appropriate professional verification where
+required.
+
+---
+
+## Contact
+
+For licensing, permission requests or other inquiries:
+
+testusterror@gmail.com

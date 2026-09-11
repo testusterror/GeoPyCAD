@@ -35,13 +35,13 @@ should be considered official versions of GeoPyCAD.
 
 ## Installation
 
-Download the latest release 
-safe it in a file you find fitting best.
-No further installation is needed to start the GeoPyCAD executable.
+Download the latest release.
 Save the program in a suitable folder of your choice. 
 Optionally, you can create a shortcut to this executable.
-No Python installation is required for the distributed
-standalone version.
+No further installation is needed to start the GeoPyCAD executable.
+No Python installation is required for the distributed standalone version.
+
+The release version is ready to go.
 
 ---
 

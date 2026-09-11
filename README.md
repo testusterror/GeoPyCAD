@@ -53,7 +53,7 @@ The source code is not publicly available.
 
 You may download and use the official, unmodified version of
 GeoPyCAD according to the terms of the
-[GeoPyCAD Proprietary Software License](LICENSE).
+[GeoPyCAD Proprietary Software License](LICENSE.md).
 
 In particular, redistribution, resale, modification and
 publication of GeoPyCAD itself are not permitted without prior

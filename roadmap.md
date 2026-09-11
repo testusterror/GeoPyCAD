@@ -1,3 +1,3 @@
-# adding soon :  roadmap ; teaser Pictures ; planned features 
+# adding soon :  roadmap ; teaser Pictures ; current features & planned features 
 
 ... 

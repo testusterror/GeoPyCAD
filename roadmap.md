@@ -27,7 +27,7 @@ This roadmap contains planned features, improvements and future development goal
 
 | Feature | Sub-feature | Use / Function | Status | Priority |
 |---|---|---|---|---:|
-| **English translation** | Code cleanup | Clean up and restructure the existing codebase | Not finished | 1 |
+| **English translation** | Code cleanup | full scale translation to english & Clean up and restructure the existing codebase | Not finished | 1 |
 | **Linux support** | | Native Linux support | Unstable | 4 |
 | **Protocols** | Measurements | Protocol generation for measurements | Not started | 4 |
 | | Generation / Construction | Protocol generation for construction work | Not started | 4 |
@@ -44,6 +44,37 @@ This roadmap contains planned features, improvements and future development goal
 | **More Imports** | XML | Import XML-based measurement / CAD data | Not started | 4 |
 | | PKT / PNT | Import point data (`PKT` / `PNT`) | Unstable | 2 |
 | | OUT (GeoGraf) | Import GeoGraf `OUT` files | Not started | 4 |
+| **Plugin Measurements 3D** | Point to point | Measure the distance between two points in 3D | Prepared / Brainstorming | 3 |
+| | Point to line | Measure the distance between a point and a line in 3D | Prepared / Brainstorming | 3 |
+| | Angle | Measure angles in 3D | Prepared / Brainstorming | 3 |
+| | Angled area | Calculate areas of angled surfaces in 3D | Prepared / Brainstorming | 3 |
+| | Polyline length | Calculate the length of a 3D polyline | Prepared / Brainstorming | 3 |
+| **Plot** | | Print a selection of graphics / data | WIP | 4 |
+| **User Manual** | | Handbook, tips, tricks and explanations | Still updating, no known bugs | 2 |
+
+---
+
+## Implemented and Working
+
+| Feature | Sub-feature | Use / Function | Status | Priority |
+|---|---|---|---|---:|
+| **Import** | DXF | Import DXF files | Finished, stable | |
+| **Visualisation** | 2D | 2D drawing and visualisation | Finished, stable | |
+| | 3D | 3D visualisation | Finished, stable | |
+| | DXF Viewer | View imported DXF data | Finished, stable | |
+| **Parameters** | Background calculation | Perform calculations in the background | Finished, stable | |
+| **Plugins** | | Make adding plugins easy | Finished, stable | |
+| **Plugin Measurements 2D** | Point to point | Measure the distance between two points | Finished, stable | |
+| | Point to line | Measure the distance between a point and a line | Finished, stable | |
+| | Angle | Measure angles | Finished, stable | |
+| | Flat area | Calculate flat areas | Finished, stable | |
+| | Polyline length | Calculate the length of a polyline | Finished, stable | |
+| **UI** | Layer display | Display available layers | Finished, stable | |
+| | Layer options | Manage layer options | Finished, stable | |
+| | Status list | Display object / system status information | Finished, stable | |
+| **Viewer** | Grid | Display a coordinate grid | Finished, stable | |
+| | Fit to window | Fit the drawing to the available window | Finished, stable | |
+| | Background | Switch between black and white background | Finished, stable | |
 
 ---
 

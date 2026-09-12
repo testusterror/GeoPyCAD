@@ -7,6 +7,22 @@ It combines geospatial functionality, CAD functionality and
 technical drawing capabilities in a standalone desktop
 application.
 
+I work in construction and legal surveying since 2014.
+That is the reason for my CAD knowledge and background parameters knowledge.
+Since CAD programs are fun to work with, i wanted to have one at home.
+And since there are few, that satisfy my needs
+-free, easy to use, useful for viewing and shortly measurements-
+i figured, coding it myself is the smartest option.
+
+I am not a professional programmer so i used openAi "ChatGPT" and "Claude" for
+troubleshooting and finding me the best methods and Module/libraries for my ideas.
+I coded the program myself.
+
+When i am satisfied with a stable build i want to share, i will release it here on github.
+
+see my [Roadmap](roadmap.md)  for more information.
+thank you for reading this.
+
 ---
 
 ## Features
